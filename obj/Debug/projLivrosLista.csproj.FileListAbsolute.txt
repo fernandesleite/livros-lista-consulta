@@ -1,0 +1,7 @@
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projLivrosLista\bin\Debug\projLivrosLista.exe.config
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projLivrosLista\bin\Debug\projLivrosLista.exe
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projLivrosLista\bin\Debug\projLivrosLista.pdb
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projLivrosLista\obj\Debug\projLivrosLista.csprojAssemblyReference.cache
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projLivrosLista\obj\Debug\projLivrosLista.csproj.CoreCompileInputs.cache
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projLivrosLista\obj\Debug\projLivrosLista.exe
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projLivrosLista\obj\Debug\projLivrosLista.pdb
